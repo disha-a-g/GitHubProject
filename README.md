@@ -1,2 +1,1 @@
-#GitHubProject
-##Coursera
+GitHubProject - Coursera
